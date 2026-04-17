@@ -1,0 +1,35 @@
+CustomerID,FullName,Address,OrderDate,ProductDescription,Quantity,UnitPrice,ReviewRating,ShippingCity,Category
+101,John Smith,123 Main St Anytown CA 91234,2023-11-01,Apple iPhone 13 Pro Max - 256GB - Sierra Blue (Unlocked),1,1200,4.5,Anytown,Electronics
+102,Jane Doe,456 Oak Ave Springfield IL 62704,2023-11-02,Samsung Galaxy S22 Ultra 5G - 128GB - Phantom Black,2,150,4.2,Springfield,Electronics
+116,Kelleigh Jones,812 Palm View Rd Sedona AZ 86336,2023-11-23,Organic Coffee Beans - 1lb Bag - Dark Roast,1,60,4.3,Denver,Beverages
+103,David Lee,789 Pine Ln Riverside NY 12345,2023-11-03,Google Pixel 6a - 128GB - Charcoal (Unlocked) - Screen Protector Included,1,800,4.8,Riverside,Electronics
+104,Sarah Jones,101 Elm Rd Seattle WA 98101,2023-11-04,OnePlus 10 Pro 5G - 256GB - Volcanic Black,3,250,4.1,Seattle,Electronics
+105,Michael Brown,222 Maple Dr Austin TX 78701,2023-11-05,Motorola Moto G Power (2022) - 64GB - Ice Blue - Prepaid,1,80,4.6,Austin,Electronics
+106,Emily Davis,333 Cedar Ct Denver CO 80201,2023-11-06,Organic Coffee Beans - 1lb Bag - Dark Roast,2,60,4.3,Denver,Beverages
+107,Christopher Wilson,444 Birch Blvd Miami FL 33101,2023-11-07,Herbal Tea Sampler - Variety Pack - Caffeine Free,,40,4.9,Miami,Beverages
+116,Kelleigh Jones,812 Palm View Rd Sedona AZ 86336,2023-11-23,Organic Coffee Beans - 1lb Bag - Dark Roast,1,60,4.3,Denver,Beverages
+108,Jessica Garcia,555 Willow Way Chicago IL 60601,2023-11-08,Artisan Chocolate - 70% Cacao - Dark Chocolate,1,,4,Chicago,Food
+109,Matthew Rodriguez,666 Redwood Rd Phoenix AZ 85001,2023-11-09,Gourmet Pasta - 16oz - Whole Wheat,1,150,4.7,Phoenix,Food
+110,Ashley Martinez,777 Sequoia St Philadelphia PA 19101,2023-11-10,Natural Lip Balm - Vanilla Mint - 0.15oz,2,90,4.4,Philadelphia,Cosmetics
+111,Robert Wilson,888 Oak St Portland OR 97201,2023-11-11,Sony Xperia 1 IV 5G - 256GB - Purple,1,1300,4.7,Portland,Electronics
+112,Linda Garcia,999 Pine Ave San Jose CA 95101,2023-11-12,LG Velvet 5G - 128GB - Aurora Gray,2,160,4,San Jose,Electronics
+113,William Rodriguez,1010 Maple Ln San Diego CA 92101,2023-11-13,Nokia G10 - 64GB - Dusk,1,90,4.8,San Diego,Electronics
+114,Barbara Martinez,1111 Cedar Rd Sacramento CA 95814,2023-11-14,Xiaomi Redmi Note 11 Pro+ 5G - 256GB - Graphite Gray,3,260,4.2,Sacramento,Electronics
+115,James Anderson,1212 Birch Blvd Oakland CA 94612,2023-11-15,Asus ROG Phone 6 - 512GB - Phantom Black,1,85,4.9,Oakland,Electronics
+116,Kelleigh Jones,812 Palm View Rd Sedona AZ 86336,2023-11-23,Organic Coffee Beans - 1lb Bag - Dark Roast,1,60,4.3,Denver,Beverages
+117,Susan Thomas,1313 Willow Way Fresno CA 93727,2023-11-16,Organic Green Tea - 20 Bags - Mint Flavor,2,65,4.1,Fresno,Beverages
+118,Joseph Jackson,1414 Redwood Dr Long Beach CA 90802,2023-11-17,Chamomile Tea - Loose Leaf - 4oz,1,45,4.6,Long Beach,Beverages
+119,Margaret White,1515 Sequoia St Bakersfield CA 93309,2023-11-18,Dark Chocolate Almonds - 12oz Bag,1,100,4.3,Bakersfield,Food
+120,Charles Harris,1616 Elmhurst Ave Anaheim CA 92805,2023-11-19,Spaghetti - 32oz - Organic,2,210,4.5,Anaheim,Food
+121,Dorothy Martin,1717 Mountain View Rd Riverside CA 92507,2023-11-20,Rosewater Lip Balm - 0.20oz - Natural,1,165,4.8,Riverside,Cosmetics
+122,Richard Thompson,1818 Ocean Ave San Bernardino CA 92405,2023-11-21,Apple iPhone SE (3rd Gen) - 64GB - Midnight (Unlocked),1,1250,4.4,San Bernardino,Electronics
+123,Patricia Garcia,1919 Lake St Santa Ana CA 92701,2023-11-22,Samsung Galaxy A53 5G - 128GB - Awesome Blue,2,170,4.7,Santa Ana,Electronics
+124,Thomas Martinez,2020 River Rd Irvine CA 92618,2023-11-23,Google Pixel 7 Pro - 256GB - Obsidian,1,100,4.1,Irvine,Electronics
+125,Jennifer Anderson,2121 Forest Ln Glendale CA 91206,2023-11-24,OnePlus Nord N20 5G - 128GB - Blue Quantum,3,270,4.6,Glendale,Electronics
+126,David Thomas,2222 Hilltop Dr Huntington Beach CA 92648,2023-11-25,Motorola Edge (2022) - 128GB - Lunar Blue,1,95,4.3,Huntington Beach,Electronics
+116,Kelleigh Jones,812 Palm View Rd Sedona AZ 86336,2023-11-23,Organic Coffee Beans - 1lb Bag - Dark Roast,1,60,4.3,Denver,Beverages
+127,Elizabeth Jackson,2323 Valley View Rd Santa Clarita CA 91351,2023-11-26,Organic Peppermint Tea - 25 Bags - Herbal,2,70,4.8,Santa Clarita,Beverages
+128,Michael White,2424 Sunset Blvd Garden Grove CA 92840,2023-11-27,Ginger Tea - Loose Leaf - 5oz,1,50,4.2,Garden Grove,Beverages
+129,Nancy Harris,2525 Sunrise Ave Pomona CA 91766,2023-11-28,Milk Chocolate Cashews - 14oz Bag,1,105,4.9,Pomona,Food
+130,Daniel Martin,2626 Moon St Torrance CA 90503,2023-11-29,Linguine - 36oz - Whole Grain,2,220,4,Torrance,Food
+131,Lisa Thompson,2727 Star Rd Pasadena CA 91101,2023-11-30,Coconut Lip Balm - 0.25oz - Tropical,1,175,4.7,Pasadena,Cosmetics
